@@ -1,0 +1,18 @@
+{
+    "htcondor.htcondor.AdTypes.Startd": [
+        {
+            "Arch": "ppc64le",
+            "Machine": "gpu2.htc.inm7.de",
+            "SlotID": 1,
+            "Name": "slot1@gpu2.htc.inm7.de",
+            "TotalSlotCpus": 20,
+            "SlotType": "Partitionable",
+            "TotalSlotDisk": 895527943.0,
+            "OpSys": "LINUX",
+            "TotalSlotGPUs": 4,
+            "TotalSlotMemory": 256000,
+            "HasFileTransfer": true,
+            "FileSystemDomain": "juseless.inm7.de"
+        }
+    ]
+}
